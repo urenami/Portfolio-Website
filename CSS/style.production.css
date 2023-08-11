@@ -324,10 +324,16 @@ link {
 .contact-title {
   text-align: center;
   margin: 20px 0;
-  font-size: 30px; /* Adjust the font size as needed */
-  font-weight: bold; /* Add bold font weight */
+  font-size: 30px; 
+  font-weight: bold; 
 }
 
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
 
 @keyframes moon-move {
   from {
