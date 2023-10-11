@@ -465,3 +465,16 @@ p a {
 .grid__item a {
   color: black;
 }
+
+/* Styles grid phtoto*/
+.project-img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.project-description {
+  font-family: "Your Desired Font", sans-serif; /* Add your desired font family */
+  font-size: 20px;
+  margin-bottom: 10px;
+}
